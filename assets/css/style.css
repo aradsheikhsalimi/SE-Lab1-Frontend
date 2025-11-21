@@ -4,3 +4,8 @@ body {
     text-align: center;
     color: #333;
 }
+
+h1 {
+    color: red;
+    font-size: 30px;
+}
